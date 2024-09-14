@@ -1,20 +1,19 @@
-I’m thrilled to share that I've just completed a project for the Fast Finder Search Bar hackathon, hosted by Innomatics Research Labs #InnomaticsResearchLabs. 🎉
+I just completed a project for the Fast Finder Search Bar hackathon by Innomatics Research Labs! 🎉
 
-🔍 Project Overview: I developed a sleek and intuitive search bar component designed to enhance user experience by allowing seamless search for countries by name or capital. Leveraging React for a dynamic user interface and CSS (or external frameworks) for a polished look, the component features:
+🔍 **Project Overview**: I created a search bar component that lets users search for countries by name or capital. It features:
 
-A prominent search bar on the homepage.
-Real-time search suggestions and autocomplete options.
-Efficient data retrieval from a provided JSON dataset.
-💡 Tech Stack:
+- A sleek search bar on the homepage
+- Real-time suggestions and autocomplete
+- Efficient data retrieval from a JSON dataset
 
-React: For building the user interface.
-CSS: For styling (or you can opt for frameworks like Bootstrap or Tailwind).
-Netlify/Vercel: For deploying the live demo. (Check out the tutorial for deployment here)
-💻 What I’ve Learned:
+💻 **Tech Stack**:
+- **React**: For the user interface
+- **CSS**: For styling (or frameworks like Bootstrap/Tailwind)
+- **Netlify/Vercel**: For deployment
 
-Improved my skills in React and frontend development.
-Gained experience in creating responsive and user-friendly interfaces.
-Navigated the process of deploying applications on Netlify/Vercel.
-🔗 Check out the live demo here.
+**What I Learned**:
+- Enhanced my React and frontend skills
+- Built a responsive, user-friendly interface
+- Gained experience in deploying apps on Netlify/Vercel
 
-A big thank you to Innomatics Research Labs for hosting this hackathon and pushing me to enhance my skills. If you’re interested in a dynamic search component or just want to chat about tech, feel free to reach out!
+Thanks to Innomatics Research Labs for this great learning opportunity! Feel free to check out the demo or reach out if you want to chat tech!
